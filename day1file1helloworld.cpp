@@ -8,7 +8,7 @@ int main() { // I know this from C
   /* Run:
   Hello World!
 
-  * /
+  */
 }
 
 // Yes! It worked!
